@@ -11,5 +11,6 @@
 4. Technology is the most profitable category, and the "Office-Supplies-Products" is the most stable one...
 
 The whole code, visualizations, information about "SuperStore", advices, and statistics are in this file: **"SuperStore_analysis19.ipynb"**
+**("https://github.com/Yehor4536/SuperStore-Analysis./blob/main/SuperStore_analysis19.ipynb")**
 (All information, conclusions, and the most important data are in the very bottom of the code)...
 _____________________________________________________________________________________________________________________________________________________________________
